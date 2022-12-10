@@ -2,9 +2,9 @@
 
 The dataset can be found in this link: https://drive.google.com/drive/folders/1kBtxqm7mABddCtBYSeHeNT2tlaEeiZe3?usp=sharing
 
-To run the code in jupyter notebook, we have to download the dataset and give that path in the code.
+To run the code in jupyter notebook, we have to download the dataset and give that path in the code wherever required.
 
-We need to have python version 3.7.7
+We need to have python version 3.6
 
 We need to create an environment in anaconda prompt by giving the command: conda create -n environmentname python=3.6
 
